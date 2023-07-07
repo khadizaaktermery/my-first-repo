@@ -1,0 +1,27 @@
+p{
+    font-size: large;
+}
+h1{
+    text-decoration: underline;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+}
+#id{
+    background-color: brown;
+}
+.class{
+    border: 0cap;
+}
+*{
+    margin: 10px;
+    padding: 10px;
+}
+button{
+    border-radius: 15px;
+}
+.box{
+    box-shadow: 5px 10px 5px;
+}
+    
+    
